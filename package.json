@@ -1,6 +1,6 @@
 {
     "name": "3dtoolkit-server-store",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "database that tracks active 3dtookit servers",
     "main": "lib/serverStore.js",
     "scripts": {
