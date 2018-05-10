@@ -10,7 +10,7 @@
         "type": "git",
         "url": "github.com/catalystcode/server-store"
     },
-    "author": "",
+    "author": "Tim Park",
     "license": "MIT",
     "dependencies": {
         "async": "^2.6.0",
