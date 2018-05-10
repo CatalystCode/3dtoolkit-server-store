@@ -1,5 +1,7 @@
 # server-store
 
+[![Build Status](https://travis-ci.com/CatalystCode/3dtoolkit-server-store.svg?branch=master)](https://travis-ci.com/CatalystCode/3dtoolkit-server-store)
+
 A module used by the orchestration service of the [3dtoolkit](https://github.com/CatalystCode/3dtoolkit) to managed the shared state around active vms handing webrtc servers.
 
 ## Installation
